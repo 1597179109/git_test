@@ -8,4 +8,7 @@ package com.gc;
  * @date: 2022/12/31 13:30
  */
 public class GitDemo {
+    public static void main(String[] args) {
+        System.out.println("hello git2");
+    }
 }
